@@ -15,7 +15,7 @@ Home do site:
 
 
 
-Works:
+Work:
 
 ![Works](imagens/printsite2.png)
 
