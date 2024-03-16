@@ -11,15 +11,19 @@ Consulte **[o meu Currículo](https://analauralisportifolio.tiiny.site/?classId=
 
 Home do site:
 
-![Home]()
+![Home](imagens/printsite1.png)
+
+
 
 Works:
 
-![Works](URL_da_Imagem)
+![Works](imagens/printsite2.png)
+
+
 
 About me:
 
-![About me](URL_da_Imagem)
+![About me](imagens/printsite3.png)
 
 
 ---
