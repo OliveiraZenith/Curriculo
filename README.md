@@ -9,8 +9,17 @@ Consulte **[o meu Currículo](https://analauralisportifolio.tiiny.site/?classId=
 
 ### 📋 Pré-Visualização
 
+Home do site:
 
+![Home]()
 
+Works:
+
+![Works](URL_da_Imagem)
+
+About me:
+
+![About me](URL_da_Imagem)
 
 
 ---
